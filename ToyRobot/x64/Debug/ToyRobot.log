@@ -1,0 +1,6 @@
+﻿  ToyRobot.cpp
+C:\Users\vidul\source\repos\ToyRobot\ToyRobot.cpp(52,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vidul\source\repos\ToyRobot\ToyRobot.cpp(53,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vidul\source\repos\ToyRobot\ToyRobot.cpp(62,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vidul\source\repos\ToyRobot\ToyRobot.cpp(71,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ToyRobot.vcxproj -> C:\Users\vidul\source\repos\ToyRobot\x64\Debug\ToyRobot.exe
